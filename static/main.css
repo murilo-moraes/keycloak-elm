@@ -1,0 +1,17 @@
+/* static/main.css */
+
+body {
+    padding: 32px;
+    font-family: sans-serif;
+}
+
+.layout {
+    display: flex;
+    gap: 32px;
+}
+
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
